@@ -1,0 +1,229 @@
+#y360 {
+  position: relative;
+  width: 450px;
+  padding: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  border: 0px;
+}
+.y360Title a {
+  text-decoration:none;
+}
+#y360HomeLink {
+  width:inherit;
+  margin-left: auto;
+  margin-right: auto;
+  text-align:center;
+  margin-top:8px;
+  font-family:Verdana;
+  font-size:10px;
+}
+#y360TopNav, #y360BottomNav {
+  width:inherit;
+  font-family:Verdana;
+  font-size:10px;
+}
+.y360View {
+  margin-top:1px;
+  text-align:left;
+  display:block;
+}
+.y360Paging {
+  margin-top:2px;
+  text-align:left;
+  display:block;
+}
+.y360Sep {
+  width:20px;
+  text-align:center;
+}
+.y360ViewLabel{
+  font-weight:bold;
+}
+.y360EntriesLabel{
+  font-weight:bold;
+}
+#y360 #y360Blog {
+  padding:5px;
+  width:inherit;
+  text-align:inherit;
+  color:inherit;
+  font-family:inherit;
+  font-size:inherit;
+}
+#y360Blog .y360Entry {
+  margin-top:15px;
+  margin-bottom:15px;
+  width:inherit;
+  text-align:inherit;
+  color:inherit;
+  font-family:inherit;
+  font-size:inherit;
+}
+.y360EntryTitle {
+  margin-top:10px;
+  display:block;
+  font-size:1.4em;
+  font-weight:bold;
+}
+.y360Image {
+  width:inherit;
+  text-align:center;
+  margin-top:10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.y360EntryContent {
+  margin-top:15px;
+  margin-bottom:15px;
+  width:inherit;
+  text-align:inherit;
+  color:inherit;
+  font-family:inherit;
+  font-size:inherit;
+}
+.y360EntryFoot {
+  width:inherit;
+  height:15px;
+  font-family:Verdana;
+  font-size:10px;
+  clear:both;
+}
+.y360EntryLinks {
+  float:right;
+  text-align:right;
+}
+.y360EntryTime {
+  float:left;
+  text-align:left;
+}
+.y360Space {
+  width:inherit;
+  height:1px;
+  clear:both;
+  border-top-style:solid;
+  border-top-width:1px;
+  border-top-color:#808080
+}
+#y360Comments {
+  margin-top:10px;
+  font-size:13px;
+}
+#y360CommentHeader{
+  font-weight:bold;
+  font-size:1.4em;
+}
+#y360Comments .y360Comment {
+  margin-top:12px;
+  font-size:inherit;
+}
+.y360CommentAuthorLabel {
+  font-weight:bold;
+}
+.y360CommentAuthor {
+  font-weight:normal;
+  margin-left:4px;
+}
+.y360CommentContent {
+  margin-top:8px;
+}
+.y360CommentTime {
+  margin-top:10px;
+  font-family:Verdana;
+  font-size:10px;
+  text-align:left;
+}
+#y360Input {
+  width:inherit;
+  font-family:Arial;
+}
+#y360Msg {
+  font-family:Arial;
+  color:red;
+  font-weight:bold;
+  font-size:13px;
+}
+#y360CommentEntry {
+  width:inherit;
+  background-color:#E6E6E6;
+  border: 1px solid #C8C8C8;
+  display:block;
+  height:230px;
+}
+#y360CommentEntry .y360CommentEntryHeader {
+  margin-top:15px;
+  margin-left:18px;
+  color:#646464;
+  font-family:Arial;
+  font-size:14px;
+  font-weight:bold;
+}
+#y360CommentEntry .y360CommentEntryLabel {
+  margin-top:5px;
+  margin-left:18px;
+  margin-bottom:5px;
+  color:#646464;
+  font-family:Arial;
+  font-size:13px;
+  font-weight:normal;
+}
+#y360CommentEntry textarea {
+  width:410px;
+  margin-left:18px;
+  margin-bottom:4px;
+}
+#y360CommentEntryCaption {
+  margin-left:18px;
+  margin-bottom:8px;
+  font-family:Arial;
+  font-size:12px;
+  font-weight:normal;
+}
+#y360AuthorData {
+  margin: 8px 18px 8px 18px;
+  border:none;
+  text-align:right;
+}
+#y360AuthorData div {
+  margin: 0 0 5px 0;
+}
+#y360AuthorData div label {
+  font-family:Arial;
+  font-size:12px;
+  font-weight:normal;
+  color:#646464;
+}
+#y360AuthorData div input {
+  width:200px;
+}
+.y360Validate {
+  margin-top:8px;
+  font-family:Arial;
+  font-size:12px;
+  font-weight:normal;
+  margin-bottom:10px;
+}
+.y360CodeLabel {
+  margin-top:12px;
+  font-family:Arial;
+  font-size:12px;
+  font-weight:bold;
+  display:block;
+}
+#y360Code input {
+  width:15em;
+}
+#y360NameLabel input {
+  width:150px;
+}
+#y360CommentEntryButton {
+  margin-top:10px;
+}
+#y360RSSInfo {
+  width:inherit;
+  margin:10px;
+  text-align:center;
+}
+/*#y360RssFeed {*/
+/*#y360AddToMyY {*/
